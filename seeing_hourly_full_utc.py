@@ -8,6 +8,9 @@
 #Outputs to seeing_full.txt for temporary storage,
 #and to a text file seeing_*_*.txt for every hour for each month (~130)
 
+#Written by jkpearman
+#Thank you to pmnied for debugging and general help
+
 ################################################################################
 
 #imports
