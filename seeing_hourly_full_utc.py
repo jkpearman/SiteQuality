@@ -1,6 +1,7 @@
 #Reads in seeing data from multiple files
 #saves the seeing data points in text files for each hour in each month
 #Need seeing log files in same directory as script
+#Takes about 10 minutes to run
 
 #Takes input from twi_18_dusk.txt, twi_18_dawn.txt,
 #and a text log file (seeing_log_*_*_*.log) for every day (2011-2016) (~2100)
